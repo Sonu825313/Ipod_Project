@@ -6,7 +6,7 @@ Which was Build an iPod using React.js. The following are the instructions:   Bu
 
 A demo of the project - https://ninjasfiles.s3.amazonaws.com/0000000000003618.gif
 
-You can see the website live at:- 
+You can see the website live at:- https://ipod-project.netlify.app
 
 ## Screenshot of this project
 
